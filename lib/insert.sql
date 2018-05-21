@@ -13,7 +13,7 @@ INSERT INTO users VALUES (2, 'Bear', 6);
 INSERT INTO users VALUES (3, 'Iguana', 4);
 INSERT INTO users VALUES (4, 'Alex', 33);
 INSERT INTO users VALUES (5, 'Amanda', 24);
-INSERT INTO users VALUES (6, 'Sophie', 24); 
+INSERT INTO users VALUES (6, 'Sophie', 24);
 INSERT INTO users VALUES (7, 'Rosey', 9);
 INSERT INTO users VALUES (8, 'Victoria', 23);
 INSERT INTO users VALUES (9, 'Franz', 100);
